@@ -37,6 +37,9 @@
                 "definition": "কনট্রোলার ক্রিয়েট করা",
                 "code": "php artisan make:controller <controller-name>"
             }, {
+                "definition": "রিসোর্স কনট্রোলার ক্রিয়েট করা",
+                "code": "php artisan make:controller <controller-name> --resource"
+            }, {
                 "definition": "রিকোয়েস্ট ফরম ক্রিয়েট করা",
                 "code": "php artisan make:request <request-name>"
             }, {
