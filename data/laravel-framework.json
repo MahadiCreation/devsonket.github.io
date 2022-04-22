@@ -85,6 +85,9 @@
                 "definition": "একবারে সকল টেবিল মুছে ফেলার পরে, নতুন করে টেবিল তৈরি করতে চাইলে",
                 "code": "php artisan migrate:fresh"
             }, {
+                "definition": "ফ্যাক্টরি ক্রিয়েট করা",
+                "code": "php artisan make:factory MadelFactory --model=ModelName"
+            }, {
                 "definition": "ছিড ক্রিয়েট করা",
                 "code": "php artisan make:seeder create_devsonket_seed"
             }, {
